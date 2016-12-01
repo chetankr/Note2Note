@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">DhdNDhqKqvShIgfmSYk9ZpsBbyXhelBfWcVnAdJO</string>
+    <string name="parse_client_key">SbquVnGPfL6owwBV7sa695sKgtRJGYpPPYmO0CcP</string>
+
+
+    <string name="app_name">Note2Note</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Choose_School">Choose School</string>
+    <string-array name="schools">
+        <item>Stanford</item>
+        <item>UC Berkeley</item>
+    </string-array>
+</resources>
